@@ -1,3 +1,5 @@
+  "Hey! This isn't the lottery!"
+  - Haha sorry I tricked you!
   "Whose this?"
 - Hey there! I'm El! Or EddiesEggplant
   "Oh! Okay El! What engines do you use?"
