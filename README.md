@@ -3,7 +3,7 @@
     
 - Hey there! I'm El! Or EddiesEggplant
   
-    "Oh! Okay El! Well I see you're on GitHub What engines do you use?"
+    "Oh! Okay El! Well I see you're on GitHub what engines do you use?"
   
 - So far I only really use RenPy!
   
